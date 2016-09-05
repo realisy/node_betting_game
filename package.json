@@ -1,0 +1,14 @@
+{
+  "name": "node_betting_game",
+  "version": "1.0.0",
+  "description": "node port of js betting game from a week ago",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "realisy@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync-history": "^1.0.1"
+  }
+}
